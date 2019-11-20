@@ -1,4 +1,4 @@
 # hello-world
-it's just fun.
+it's just for test.
 add some topic.
 readme branch commit
